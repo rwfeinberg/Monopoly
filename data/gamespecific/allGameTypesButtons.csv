@@ -1,0 +1,6 @@
+Standard,BuyHouse,SellHouse,Trade,Mortgage,Unmortgage
+Duke,Trade,Mortgage,Unmortgage
+Beach,BuyHouse,SellHouse,Trade,Mortgage,Unmortgage
+Extreme,Mortgage,Unmortgage,SwapPlayers
+
+

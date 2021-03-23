@@ -1,0 +1,40 @@
+Boardwalk,WHITE,-1,0
+Shore,RED,60,1
+Community Chest1,WHITE,-1,8
+Coast,RED,60,1
+Outside Food Tax,WHITE,200,4
+Shortboard,WHITE,200,2
+Tidepool,ORANGERED,100,1
+Chance1,WHITE,-1,7
+Waves,ORANGERED,100,1
+Sandbar,ORANGERED,120,1
+No Wake Zone,WHITE,-1,5
+Tan,DARKORANGE,140,1
+Showers,WHITE,150,3
+Sunburn,DARKORANGE,140,1
+Crispy,DARKORANGE,160,1
+Longboard,WHITE,200,2
+Driftwood,GOLD,180,1
+Community Chest2,WHITE,-1,8
+Conch Shell,GOLD,180,1
+Beach Glass,GOLD,200,1
+Free Parking,WHITE,-1,9
+Bikini,YELLOW,220,1
+Chance2,WHITE,-1,7
+Trunks,YELLOW,220,1
+Sunglasses,YELLOW,240,1
+Funboard,WHITE,200,2
+Beach Ball,DARKORCHID,260,1
+Frisbee,DARKORCHID,260,1
+Bathrooms,WHITE,150,3
+Badminton,DARKORCHID,280,1
+Go To No Wake Zone,WHITE,-1,6
+Seagrass,INDIGO,300,1
+Kelp,INDIGO,300,1
+Community Chest3,WHITE,-1,8
+Algae,INDIGO,320,1
+Gunboard,WHITE,200,2
+Chance3,WHITE,-1,7
+Whirlpool,MIDNIGHTBLUE,350,1
+Outside Beverage Tax,WHITE,75,4
+Tsunami,MIDNIGHTBLUE,400,1
