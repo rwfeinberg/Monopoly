@@ -20,7 +20,7 @@ Hours Spent: 300 (approx. 60 X person)
 ![monopolyselectscreen](https://user-images.githubusercontent.com/66392115/116021671-a3a62c80-a616-11eb-9cbb-1e4e08ef37d8.png)
 
 #### Gameplay:
-https://user-images.githubusercontent.com/66392115/116021765-d2240780-a616-11eb-86ef-20432791f11e.mp4
+https://user-images.githubusercontent.com/66392115/116022054-6ee6a500-a617-11eb-85c6-b7c882f9be94.mp4
 
 ### Resources Used
 1. https://docs.oracle.com/javase/tutorial/reflect/index.html, reflection
