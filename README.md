@@ -14,13 +14,13 @@ Finish Date: 11/18/20
 
 Hours Spent: 300 (approx. 60 X person)
 
-### Pictures
+### Pictures/Video
 
-![Select Screen for Project](Images/monopolyselectscreen.png)
+#### Selection Screen:
+![monopolyselectscreen](https://user-images.githubusercontent.com/66392115/116021671-a3a62c80-a616-11eb-9cbb-1e4e08ef37d8.png)
 
-![Game screen](Images/monopolygamescreen.png)
-
-![Purchasing a property](Images/monopolypurchase.png)
+#### Gameplay:
+https://user-images.githubusercontent.com/66392115/116021765-d2240780-a616-11eb-86ef-20432791f11e.mp4
 
 ### Resources Used
 1. https://docs.oracle.com/javase/tutorial/reflect/index.html, reflection
