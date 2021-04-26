@@ -16,7 +16,11 @@ Hours Spent: 300 (approx. 60 X person)
 
 ### Pictures
 
-![image info](./pictures/image.png)
+![Select Screen for Project](Images/monopolyselectscreen.png)
+
+![Game screen](Images/monopolygamescreen.png)
+
+![Purchasing a property](Images/monopolypurchase.png)
 
 ### Resources Used
 1. https://docs.oracle.com/javase/tutorial/reflect/index.html, reflection
